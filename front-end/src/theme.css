@@ -1,0 +1,16 @@
+:root {
+  --primary: #3B82F6;
+  --secondary: #10B981;
+  --warning: #F59E0B;
+  --error: #EF4444;
+  --bg: #F9FAFB;
+  --surface: #FFFFFF;
+  --text-primary: #111827;
+  --text-secondary: #6B7280;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text-primary);
+  font-family: 'Roboto', sans-serif;
+}
